@@ -3,7 +3,7 @@
  * @brief A description of the module’s purpose. 
  *
  * @par       
- * COPYRIGHT NOTICE: (c) 2018 Barr Group.  All rights reserved.
+ * COPYRIGHT NOTICE: (c) 2018 Barr Group.  All rights reserved. <-- They made this template that I totally used.
  */ 
 
 #ifndef EMBEDDEDENGINEERING_H
